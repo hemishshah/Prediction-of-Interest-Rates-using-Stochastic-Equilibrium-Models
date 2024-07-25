@@ -8,7 +8,7 @@ We aim to develop and deploy a user-friendly interface for
 interacting with the model, enhancing accessibility for users
 who may not be well-versed in programming. The research
 focuses on single-factor short rate models, specifically the
-Merton Model, Vasicek Model, and Normal Model [1], which
+Merton Model, Vasicek Model, and Normal Model, which
 are pivotal in financial markets for the pricing of various
 fixed-income securities and derivatives. Each model offers
 unique insights into the dynamics of short-term interest rates,
